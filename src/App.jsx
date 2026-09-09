@@ -5,21 +5,18 @@ import Education from './components/Education';
 import Experience from './components/Experience';
 import FancyLine from './components/FancyLine';
 import Skills from './components/Skills';
+import { getSection } from './helpers/resume';
 import './App.css';
 
 const App = React.forwardRef((props, ref) => {
+  const data = getSection('App');
+
   return (
     <div className="App" ref={ref}>
       <div className='container'>
-        <h1 className='name' style={{ marginTop: '0.25em' }}>Daniel Mann</h1>
-        <h3 className='title'>Software Developer</h3>
-        <p className='description'>
-          Innovative and results-driven software developer with an enthusiasm for tackling complex challenges and crafting elegant solutions.
-          With a passion for continuous learning,
-          I'm eager to embrace the newest technologies and industry best practices to continue personal growth and deliver high-quality code.
-          Leveraging a strong foundation in problem-solving and a creative mindset,
-          I thrive in collaborative environments and excel at developing user-centric applications.
-        </p>
+        <h1 className='name' style={{ marginTop: '0.25em' }}>{data['name']}</h1>
+        <h3 className='title'>{data['title']}</h3>
+        <p className='description'>{data['description'].join(" ")}</p>
 
         <Contact />
 

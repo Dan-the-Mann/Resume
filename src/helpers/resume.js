@@ -30,3 +30,5 @@ export const ATSKeywords = () => {
         </div>
     )
 }
+
+export const stripHttp = (s) => s.replace("https://", "");

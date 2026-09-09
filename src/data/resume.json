@@ -1,9 +1,42 @@
 {
+    "App": {
+        "name": "Daniel Mann",
+        "title": "Software Developer",
+        "description": [
+            "Innovative and results-driven software developer with an enthusiasm for tackling complex challenges and crafting elegant solutions.",
+            "With a passion for continuous learning,",
+            "I'm eager to embrace the newest technologies and industry best practices to continue personal growth and deliver high-quality code.",
+            "Leveraging a strong foundation in problem-solving and a creative mindset,",
+            "I thrive in collaborative environments and excel at developing user-centric applications."
+        ]
+    },
+    "Contact": {
+        "email": "damann1072@gmail.com",
+        "phone": "(205) 936-3366",
+        "location": "Tuscaloosa, AL",
+        "linkedIn": "https://linkedin.com/in/mann-dan",
+        "github": "https://github.com/Dan-the-Mann",
+        "website": "https://dmann.netlify.app"
+    },
     "Skills": [
-        "JavaScript (ES6)", "Express.js", "MySQL", "HTML5", "Bootstrap",
-        "React", "Next.js", "MongoDB", "CSS", "WordPress",
-        "Node.js", "Redux", "Firebase", "UI Design", "Agile Methodologies",
-        "Python", "Django", "PostgreSQL"
+        "JavaScript (ES6)",
+        "Express.js",
+        "MySQL",
+        "HTML5",
+        "Bootstrap",
+        "React",
+        "Next.js",
+        "MongoDB",
+        "CSS",
+        "WordPress",
+        "Node.js",
+        "Redux",
+        "Firebase",
+        "UI Design",
+        "Agile Methodologies",
+        "Python",
+        "Django",
+        "PostgreSQL"
     ],
     "Experience": [
         {
