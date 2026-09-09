@@ -5,7 +5,7 @@ const Contact = () => {
         <div className='contacts'>
             <div className='row'><img src={image.email} height={25} style={{ marginRight: '0.75em' }} alt=''></img>damann1072@gmail.com</div>
             <div className='row'><img src={image.phone} height={25} style={{ marginRight: '0.75em' }} alt=''></img>(205) 936-3366</div>
-            <div className='row'><img src={image.location} height={25} style={{ marginRight: '0.75em' }} alt=''></img>Birmingham, AL</div>
+            <div className='row'><img src={image.location} height={25} style={{ marginRight: '0.75em' }} alt=''></img>Tuscaloosa, AL</div>
             <div className='row'><img src={image.linkedIn} height={25} style={{ marginRight: '0.75em' }} alt=''></img>
                 <a href='https://www.linkedin.com/in/mann-dan' target='_blank' rel='noreferrer'>linkedin.com/in/mann-dan</a>
             </div>

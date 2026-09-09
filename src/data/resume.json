@@ -1,0 +1,60 @@
+{
+    "Skills": [
+        "JavaScript (ES6)", "Express.js", "MySQL", "HTML5", "Bootstrap",
+        "React", "Next.js", "MongoDB", "CSS", "WordPress",
+        "Node.js", "Redux", "Firebase", "UI Design", "Agile Methodologies",
+        "Python", "Django", "PostgreSQL"
+    ],
+    "Experience": [
+        {
+            "title": "Web Developer",
+            "company": "The Westervelt Company",
+            "dates": "01/2024 - Present",
+            "bullets": [
+                "Bullets"
+            ]
+        },
+        {
+            "title": "Web Developer (Contract)",
+            "company": "Relay",
+            "dates": "06/2023 - 01/2024",
+            "bullets": [
+                "Enhancing data monitoring efficiency by integrating the **Front-End** website with the **Back-End** CRM system, and administering seamless data synchronization, resulting in a marked increase in data tracking and accuracy",
+                "Increasing **WordPress** site indexability by a significant margin through plugins such as **YoastSEO**",
+                "Designing and implementing a webscraping software tool using **Node.js**, **Express**, and **Cheerio** to effectively scrape and give reports on site structure and ensure all **SEO** best practices are met",
+                "Elevating **UX/UI** attractiveness and performance through utilizing **jQuery** and unique **CSS** stylings"
+            ]
+        },
+        {
+            "title": "Web Developer (Contract)",
+            "company": "Innov8tive Strategies, LLC",
+            "dates": "07/2022 - 06/2023",
+            "bullets": [
+                "Collaborated with the CEO to improve company website **UI/UX design**, performance, and reliability",
+                "Designed and implemented an **API** using **RESTful** services to enable real-time integration of a live Instagram feed",
+                "Improved website traffic through identifying and applying **SEO** best practices",
+                "Consulted with non-profit clients to grow their own web presence and, through that, their impact in the community"
+            ]
+        },
+        {
+            "title": "Full Stack Web Developer",
+            "company": "Innovate Birmingham",
+            "dates": "12/2021 - 05/2022",
+            "bullets": [
+                "**Web development** boot camp to improve my **JavaScript** proficiency and challenge my **coding** ability",
+                "Actively developed **Front-End** applications using **React** with features such as **React Hooks** and **React Router**",
+                "Built **API** and **Back-End** architecture with **Node.js** and **Express**, as well as designed a relational database with **MySQL** to handle robust data sets"
+            ]
+        }
+    ],
+    "Education": [
+        {
+            "school": "University of Alabama at Birmingham",
+            "degree": "Bachelor of Science in Information Systems",
+            "bullets": [
+                "Project based learning through coursework with a strong emphasis on **leadership** and **teamwork** in a group setting",
+                "Relevant coursework: Information systems design, Object-Oriented Programming, Data Structures and Algorithms, Software Development, Computer Science, Database Management Systems, CI/CD, Git, Responsive Web Design"
+            ]
+        }
+    ]
+}

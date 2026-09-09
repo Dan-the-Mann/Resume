@@ -1,12 +1,8 @@
 import Header from "./Header";
+import { getSection } from "../helpers/resume";
 
 const Skills = () => {
-    const skillset = [
-        'JavaScript (ES6)', 'Express.js', 'MySQL', 'HTML5', 'Bootstrap',
-        'React', 'Next.js', 'MongoDB', 'CSS', 'WordPress',
-        'Node.js', 'Redux', 'Firebase', 'UI Design', 'Agile Methodologies',
-        'Python', 'Django', 'PostgreSQL'
-    ];
+    const skillset = getSection('Skills');
 
     return (
         <div className='skills'>
