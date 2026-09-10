@@ -15,9 +15,6 @@ const Contact = () => {
             <div className='row'><img src={image.github} height={25} style={{ marginRight: '0.75em' }} alt=''></img>
                 <a href={data['github']} target='_blank' rel='noreferrer'>{stripHttp(data['github'])}</a>
             </div>
-            <div className='row'><img src={image.site} height={25} style={{ marginRight: '0.75em' }} alt=''></img>
-                <a href={data['website']} target='_blank' rel='noreferrer'>{stripHttp(data['website'])}</a>
-            </div>
         </div>
     )
 }

@@ -55,7 +55,7 @@ const AppToPrint = () => {
       <App ref={componentRef} />
 
       <ReactToPrint
-        trigger={() => <button style={{ marginTop: '1em' }}>{`Print as PDF :)`}</button>}
+        trigger={() => <button style={{ marginTop: '2em' }}>{`Print as PDF :)`}</button>}
         content={() => componentRef.current}
       />
     </div>

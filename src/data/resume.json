@@ -3,11 +3,8 @@
         "name": "Daniel Mann",
         "title": "Software Developer",
         "description": [
-            "Innovative and results-driven software developer with an enthusiasm for tackling complex challenges and crafting elegant solutions.",
-            "With a passion for continuous learning,",
-            "I'm eager to embrace the newest technologies and industry best practices to continue personal growth and deliver high-quality code.",
-            "Leveraging a strong foundation in problem-solving and a creative mindset,",
-            "I thrive in collaborative environments and excel at developing user-centric applications."
+            "Full-stack web developer with 4+ years of experience shipping production sites in Django, Python, React, and Node.js.",
+            "Recently led the consolidation of 9 company websites into a single Wagtail CMS and built an AI feature that answers employee questions from 1,100+ internal pages and documents."
         ]
     },
     "Contact": {
@@ -19,24 +16,20 @@
         "website": "https://dmann.netlify.app"
     },
     "Skills": [
+        "Python",
         "JavaScript (ES6)",
-        "Express.js",
-        "MySQL",
-        "HTML5",
-        "Bootstrap",
-        "React",
+        "PostgreSQL",
         "Next.js",
-        "MongoDB",
-        "CSS",
-        "WordPress",
+        "HTML5",
+        "Django",
+        "React",
+        "Express.js",
+        "Tailwind CSS",
+        "UI Design",
+        "Wagtail",
         "Node.js",
         "Redux",
-        "Firebase",
-        "UI Design",
-        "Agile Methodologies",
-        "Python",
-        "Django",
-        "PostgreSQL"
+        "Bootstrap"
     ],
     "Experience": [
         {
@@ -44,7 +37,10 @@
             "company": "The Westervelt Company",
             "dates": "01/2024 - Present",
             "bullets": [
-                "Bullets"
+                "Migrated the internal company website from **React** to **Django** with **Wagtail CMS**, backed by a **PostgreSQL** database",
+                "Led the migration of **8 public-facing websites** into the same multi-site **Wagtail CMS**, unifying content management across the company and enabling non-developers to manage their own content, with ongoing fixes and features",
+                "Built an **AI** feature in **Python** that answers employee questions in natural language using content scraped from the internal company site's 600+ pages and 500+ documents",
+                "Gathering requirements from stakeholders across the company and translating them into scoped, deliverable features"
             ]
         },
         {
@@ -54,8 +50,7 @@
             "bullets": [
                 "Enhancing data monitoring efficiency by integrating the **Front-End** website with the **Back-End** CRM system, and administering seamless data synchronization, resulting in a marked increase in data tracking and accuracy",
                 "Increasing **WordPress** site indexability by a significant margin through plugins such as **YoastSEO**",
-                "Designing and implementing a webscraping software tool using **Node.js**, **Express**, and **Cheerio** to effectively scrape and give reports on site structure and ensure all **SEO** best practices are met",
-                "Elevating **UX/UI** attractiveness and performance through utilizing **jQuery** and unique **CSS** stylings"
+                "Designing and implementing a webscraping software tool using **Node.js**, **Express**, and **Cheerio** to effectively scrape and give reports on site structure and ensure all **SEO** best practices are met"
             ]
         },
         {
@@ -65,18 +60,7 @@
             "bullets": [
                 "Collaborated with the CEO to improve company website **UI/UX design**, performance, and reliability",
                 "Designed and implemented an **API** using **RESTful** services to enable real-time integration of a live Instagram feed",
-                "Improved website traffic through identifying and applying **SEO** best practices",
                 "Consulted with non-profit clients to grow their own web presence and, through that, their impact in the community"
-            ]
-        },
-        {
-            "title": "Full Stack Web Developer",
-            "company": "Innovate Birmingham",
-            "dates": "12/2021 - 05/2022",
-            "bullets": [
-                "**Web development** boot camp to improve my **JavaScript** proficiency and challenge my **coding** ability",
-                "Actively developed **Front-End** applications using **React** with features such as **React Hooks** and **React Router**",
-                "Built **API** and **Back-End** architecture with **Node.js** and **Express**, as well as designed a relational database with **MySQL** to handle robust data sets"
             ]
         }
     ],
